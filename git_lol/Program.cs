@@ -4,3 +4,4 @@ Console.WriteLine("Hello, World!");
 //ewwrgsdger
 //zad 1
 //fdgdfgdfgavafgergavvfdvv
+//fwefefw
