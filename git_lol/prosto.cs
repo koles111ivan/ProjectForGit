@@ -8,6 +8,7 @@ namespace git_lol
 {
     internal class prosto
     {
+        public prosto() { }
     }
 }
 //f[f[f[f
