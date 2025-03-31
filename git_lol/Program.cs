@@ -3,4 +3,3 @@ Console.WriteLine("Hello, World!");
 //ergrt
 //ewwrgsdger
 //zad 1
-// zad 9
