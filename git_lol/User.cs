@@ -9,5 +9,7 @@ namespace git_lol
     internal class User
     {
         //poka
+        //privet
+        
     }
 }
