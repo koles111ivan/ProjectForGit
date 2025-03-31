@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace git_lol
 {
-    internal class UserStorage
+    internal class prosto
     {
     }
 }
